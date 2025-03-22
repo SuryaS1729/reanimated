@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "perp_scroll",
-    "slug": "perp_scroll",
+    "name": "perp-scroll",
+    "slug": "perp-scroll",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
